@@ -1,0 +1,24 @@
+{
+    "themes": [
+        {
+            "name": "Net Juu no Susume",
+            "link": "https://animethemes.moe/video/NetjuuNoSusume-OP1-NCBD1080.webm",
+            "showURL": "https://anilist.co/anime/99726/Netjuu-no-Susume/"
+        },
+        {
+            "name": "Re:Creators",
+            "link": "https://animethemes.moe/video/ReCreators-OP1.webm",
+            "showURL": "https://anilist.co/anime/97980/ReCREATORS/"
+        },
+        {
+            "name": "Violet Evergarden",
+            "link": "https://animethemes.moe/video/VioletEvergarden-OP1-NCBD1080.webm",
+            "showURL": "https://anilist.co/anime/21827/Violet-Evergarden/"
+        }
+    ],
+    "tiers": [
+    ],
+    "ranking": [
+        0,1,2
+    ]
+}

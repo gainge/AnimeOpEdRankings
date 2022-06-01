@@ -1,0 +1,88 @@
+{
+    "themes": [
+        {
+            "name": "Suzuka Dub",
+            "link": "https://youtu.be/8zE-KtWLRdY",
+            "showURL": "https://anilist.co/anime/390/Suzuka/"
+        },
+        {
+            "name": "Ambiguous",
+            "link": "https://animethemes.moe/video/KillLaKill-OP2.webm",
+            "showURL": "https://anilist.co/anime/18679/Kill-la-Kill/"
+        },
+        {
+            "name": "Lovely Complex",
+            "link": "https://animethemes.moe/video/LovelyComplex-OP1.webm",
+            "showURL": "https://anilist.co/anime/2034/LovelyComplex/"
+        },
+        {
+            "name": "Domestic na Kanojo",
+            "link": "https://animethemes.moe/video/DomesticNaKanojo-OP1-NCBD1080.webm",
+            "showURL": "https://anilist.co/anime/103139/Domestic-na-Kanojo/"
+        },
+        {
+            "name": "Brave Shine",
+            "link": "https://animethemes.moe/video/FateStayNightUBWS2-OP1.webm",
+            "showURL": "https://anilist.co/anime/20792/Fatestay-night-Unlimited-Blade-Works-2nd-Season/"
+        },
+        {
+            "name": "Dumbbell Nan Kilo Moteru?",
+            "link": "https://animethemes.moe/video/DumbbellNanKiloMoteru-OP1-NCBD1080Lyrics.webm",
+            "showURL": "https://anilist.co/anime/107226/Dumbbell-Nan-Kilo-Moteru/"
+        },
+        {
+            "name": "Kokkoku",
+            "link": "https://animethemes.moe/video/Kokkoku-OP1v6.webm",
+            "showURL": "https://anilist.co/anime/100332/Kokkoku/"
+        },
+        {
+            "name": "High Score Girl",
+            "link": "https://animethemes.moe/video/HighScoreGirl-OP1-NCBD1080.webm",
+            "showURL": "https://anilist.co/anime/20574/High-Score-Girl/"
+        },
+        {
+            "name": "Tonikaku Kawaii",
+            "link": "https://animethemes.moe/video/Tonikawa-OP1.webm",
+            "showURL": "https://anilist.co/anime/116267/Tonikaku-Kawaii/"
+        },
+        {
+            "name": "Fly High!!",
+            "link": "https://animethemes.moe/video/HaikyuuS2-OP2-NCBD1080.webm",
+            "showURL": "https://anilist.co/anime/20992/Haikyuu-2nd-Season/"
+        },
+        {
+            "name": "Shiny Ray",
+            "link": "https://animethemes.moe/video/LittleWitchAcademiaTV-OP1-NCBD1080.webm",
+            "showURL": "https://anilist.co/anime/21858/Little-Witch-Academia-TV/"
+        }
+    ],
+    "tiers": [
+        {
+            "label": "SS",
+            "low": 1,
+            "high": 2,
+            "color": "#ffd700"
+        },
+        {
+            "label": "S",
+            "low": 2,
+            "high": 3,
+            "color": "#D9D9D9"
+        },
+        {
+            "label": "A",
+            "low": 3,
+            "high": 4,
+            "color": "#b85b19"
+        }
+    ],
+    "ranking": [
+        1,2,3,4,5,6,7,8,9,10
+    ],
+    "awards": [
+        {
+            "award": "ACTUAL #1",
+            "index": 0
+        }
+    ]
+}

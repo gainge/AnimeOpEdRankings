@@ -1,0 +1,88 @@
+{
+    "themes": [
+        {
+            "name": "Yakitate Japan",
+            "link": "https://www.youtube.com/watch?v=Y3QBeRCKnE0",
+            "showURL": "https://anilist.co/anime/28/Yakitate-Japan/"
+        },
+        {
+            "name": "Yagate Kimi ni Naru",
+            "link": "https://animethemes.moe/video/YagateKimiNiNaru-ED1-NCBD1080.webm",
+            "showURL": "https://anilist.co/anime/101573/Yagate-Kimi-ni-Naru/"
+        },
+        {
+            "name": "Spice",
+            "link": "https://animethemes.moe/video/ShokugekiNoSouma-ED1.webm",
+            "showURL": "https://anilist.co/anime/20923/Shokugeki-no-Souma/"
+        },
+        {
+            "name": "Hoshiai no Sora",
+            "link": "https://animethemes.moe/video/HoshiaiNoSora-ED1-NCBD1080.webm",
+            "showURL": "https://anilist.co/anime/104052/Hoshiai-no-Sora/"
+        },
+        {
+            "name": "Psycho Pass",
+            "link": "https://animethemes.moe/video/PsychoPass-ED1.webm",
+            "showURL": "https://anilist.co/anime/13601/PSYCHOPASS/"
+        },
+        {
+            "name": "Fruits Basket ED1",
+            "link": "https://animethemes.moe/video/FruitsBasket2019-ED1-NCBD1080.webm",
+            "showURL": "https://anilist.co/anime/105334/Fruits-Basket-1st-Season/"
+        },
+        {
+            "name": "For You | Naruto Shippuuden",
+            "link": "https://animethemes.moe/video/NarutoShippuuden-ED12.webm",
+            "showURL": "https://anilist.co/anime/1735/NARUTO-Shippuuden/"
+        },
+        {
+            "name": "Shougeki | SNK Final",
+            "link": "https://animethemes.moe/video/ShingekiNoKyojinS4-ED1.webm",
+            "showURL": "https://anilist.co/anime/110277/Shingeki-no-Kyojin-The-Final-Season/"
+        },
+        {
+            "name": "Hunter x Hunter ED5",
+            "link": "https://animethemes.moe/video/HunterHunter2011-ED5.webm",
+            "showURL": "https://anilist.co/anime/11061/HUNTERHUNTER-2011/"
+        },
+        {
+            "name": "Vanilla Salt",
+            "link": "https://animethemes.moe/video/Toradora-ED1.webm",
+            "showURL": "https://anilist.co/anime/4224/Toradora/"
+        },
+        {
+            "name": "FMA:B ED4",
+            "link": "https://animethemes.moe/video/FullmetalAlchemistBrotherhood-ED4.webm",
+            "showURL": "https://anilist.co/anime/5114/Hagane-no-Renkinjutsushi-FULLMETAL-ALCHEMIST/"
+        }
+    ],
+    "tiers": [
+        {
+            "label": "SS",
+            "low": 1,
+            "high": 2,
+            "color": "#ffd700"
+        },
+        {
+            "label": "S",
+            "low": 2,
+            "high": 3,
+            "color": "#D9D9D9"
+        },
+        {
+            "label": "A",
+            "low": 3,
+            "high": 4,
+            "color": "#b85b19"
+        }
+    ],
+    "ranking": [
+        1,2,3,4,5,6,7,8,9,10
+    ],
+    "awards": [
+        {
+            "award": "Meme Pick",
+            "index": 0
+        }
+    ]
+}

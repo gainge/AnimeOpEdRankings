@@ -1,0 +1,24 @@
+{
+    "themes": [
+        {
+            "name": "Chihayafuru S3",
+            "link": "https://animethemes.moe/video/ChihayafuruS3-ED1-NCBD1080.webm",
+            "showURL": "https://anilist.co/anime/101215/Chihayafuru-3/"
+        },
+        {
+            "name": "Eizouken",
+            "link": "https://animethemes.moe/video/Eizouken-ED1-NCBD1080.webm",
+            "showURL": "https://anilist.co/anime/109298/Eizouken-ni-wa-Te-wo-Dasu-na/"
+        },
+        {
+            "name": "Fruits Basket S2 ED2",
+            "link": "https://animethemes.moe/video/FruitsBasketS2-ED3-NCBD1080.webm",
+            "showURL": "https://anilist.co/anime/111762/Fruits-Basket-2nd-Season/"
+        }
+    ],
+    "tiers": [
+    ],
+    "ranking": [
+        0,1,2
+    ]
+}

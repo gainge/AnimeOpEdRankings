@@ -4,9 +4,52 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="./res/favicon.ico" type="image/x-icon">
+    <script>window.HELP_IMPROVE_VIDEOJS = false;</script>
+    <link rel="stylesheet" href="style.css">
     <title>Rankings</title>
 </head>
 <body>
-    This will have stuff :)
+    <h1 id="opening-heading">Openings</h1>
+    <div id="opening-ranking-container">
+        <div id="awards-container">
+            <div id="opening-awards">
+            </div>
+        </div>
+        <div id="opening-ranking" class="ranking">
+        </div>
+        <p class="hm">Honorable Mentions</p>
+        <div id="opening-hms-ranking" class="ranking">
+        </div>
+    </div>
+
+    <br>
+    <br>
+    <hr>
+
+    <h1 id="ending-heading">Endings</h1>
+    <div id="ending-ranking-container">
+        <div id="awards-container">
+            <div id="ending-awards">
+            </div>
+        </div>
+        <div id="ending-ranking" class="ranking">
+        </div>
+        <p class="hm">Honorable Mentions They're All So Beautiful I Love Them</p>
+        <div id="ending-hms-ranking" class="ranking">
+        </div>
+    </div>
+
+    <div id="modal" onclick="onModalClick()">
+        <video
+            id="theme-video"
+            class="video"
+            controls
+            preload="auto"
+        >
+            <source id="video-source" src="" type="video/webm" />
+        </video>
+    </div>
 </body>
+<script src="./script.js"></script>
 </html>
